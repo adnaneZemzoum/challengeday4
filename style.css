@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap%22");
+
+body{
+    background-color: #F8F9F9;
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    font-family: "Poppins", sans-serif;
+}
+
+#left{
+    display: inline-block;
+    width:50%;
+    transform: translateY(-45%);
+    word-spacing: 5px;
+
+}
+
+#right{
+    display: inline-block;
+    width: 49%;
+    margin-top:10%;
+}
+
+
+
+h1{
+    color: rgb(43, 119, 242);
+    font-size: 45px;
+    margin-bottom: 10px;
+    margin-bottom: 0px;
+    margin-left: 25%;
+}
+
+#description{  
+    font-size: 21px;
+    color : rgb(56, 95, 95); 
+    margin-top:0px; 
+    margin-left: 25%;
+}
+    
+
+
+form{
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px 0px rgba(18,15,15,0.75);
+    display: inline-block;
+    width: 300px;
+    margin-top:10%;
+    margin-left: 140px;
+    padding: 20px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+
+.fieldtext{
+    width: 98%;
+    height: 40px;
+    margin-bottom: 17px;
+}
+
+#forgoten-password-link{
+    margin-top: 20px;
+    font-size: 12px;
+    color: rgb(43, 119, 242);
+}
+
+#login-button{
+    margin-bottom: 15px;
+    background-color: rgb(43, 119, 242);
+    color: white;
+    border-radius: 3px;
+    border:none;
+    width: 100%;
+    height: 40px;
+    margin-top: 17px;
+}
+
+#create-account-button{
+    width: 160px;
+    height: 40px;
+    background-color: rgb(40, 167, 49);
+    color: white;
+    border-radius: 3px;
+    border:none;
+}
+
+#citation{
+    font-size: 12px;
+    margin: 0px;
+    margin-left: 810px; 
+}
